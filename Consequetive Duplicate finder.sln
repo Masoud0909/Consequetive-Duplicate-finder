@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Consequetive Duplicate finder", "Consequetive Duplicate finder.pyproj", "{9DC2F319-FCF2-4555-BD9A-A163DBCB1964}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9DC2F319-FCF2-4555-BD9A-A163DBCB1964}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DC2F319-FCF2-4555-BD9A-A163DBCB1964}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B7F00E41-EF07-4D4B-8415-818731E8A514}
+	EndGlobalSection
+EndGlobal
